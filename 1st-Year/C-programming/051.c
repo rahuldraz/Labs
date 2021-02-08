@@ -17,7 +17,7 @@ int main() {
   printf("Odd Elements in Array:\n");
 
   for (i = 0; i < n; i++)
-    if(a[i]%2==0)
+    if(a[i]%2!=0)
       printf("A[] %d\n", a[i]);
   return 0;
 }
