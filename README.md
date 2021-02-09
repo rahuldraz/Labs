@@ -8,7 +8,9 @@
 
 ### In Progress
  - **CSE 2nd Year**
----
+ - **CSE 3rd Year**
+ ---
+ 
 **This  repository is updated regularly.**
 
 
