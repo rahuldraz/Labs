@@ -1,0 +1,76 @@
+
+L1Q1: Write a Python program to implement a simple calculator. The output should be something like ( Make use for string method formatting)Virtual programming lab
+Select operation. 
+
+1.Add 
+
+2.Subtract 
+
+3.Multiply 
+
+4.Divide
+
+ Enter choice(1/2/3/4): 3
+
+ Enter first number: 15 
+
+Enter second number: 14 
+
+15 * 14 = 210
+
+L2Q2: Write a Python program to check if a year is leap.Virtual programming lab
+A leap year is exactly divisible by 4 except for century years (years ending with 00). The century year is a leap year only if it is perfectly divisible by 400. For example,
+
+2017 is not a leap year 
+
+1900 is a not leap year 
+
+2012 is a leap year 
+
+2000 is a leap year.
+
+
+
+L2Q1: 1. Write a Python program to calculate the sum of the positive integers of n+(n-2)+(n-4) +. . . + 0
+
+Introduction to Python Programming - II (Looping)Virtual programming lab
+L2Q2: 2. Write a Python program to solve the Fibonacci sequence upto n.
+
+Introduction to Python Programming - II (Looping)Virtual programming lab
+L2Q3: 3. Write a Python program to reverse the order of the items in the array.
+
+Introduction to Python Programming - II (Looping)Virtual programming lab
+L2Q4: 4. Write a Python program to find the average of largest and second largest number in a list.
+
+Introduction to Python Programming - II (Looping)Virtual programming lab
+L2Q5: 5. Write a Python function to find maximum, minimum and length of a given list of numbers. Generate your number using random library.
+
+
+Lab 3 Program IVirtual programming lab
+1. Write a Python program to find the transpose of a given matrix.
+
+Lab 3 Program IIVirtual programming lab
+2. Write a Python program to multiply two matrices.
+
+Lab 3 Program IIIVirtual programming lab
+3. Write a program to perform linear search on a random list of n integer numbers.
+
+
+Linear Search - Time ComplexityVirtual programming lab
+Binary Search - Time ComplexityVirtual programming lab
+Submit PDF with Graph (Linear and Binary Search)Assignment
+Please submit your pdf file consisting of following:
+
+1. You details: Name, Reg, Section
+
+2. Linear Search Code
+
+3. Linear Search Graph - for best and worst case
+
+4. Linear Search Conclusion
+
+5. Binary Search Code
+
+6. Binary Search Graph - for best and worst case
+
+7. Binary Search Conclusion
